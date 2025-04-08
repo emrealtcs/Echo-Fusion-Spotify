@@ -3,6 +3,9 @@ Echo Fusion is a mobile app created in Android Studio which gathers wrapped data
 
 # SETUP 
 Open the repository in Android Studio and run it on your Android Virtual Device (AVD) or connect to a physical device
+
 Create an account with EchoFusion
+
 Link your Spotify account with OAuth
+
 Explore your music listening results!
